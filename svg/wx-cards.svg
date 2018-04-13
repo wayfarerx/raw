@@ -29,9 +29,9 @@
      showgrid="false"
      inkscape:current-layer="layer9"
      inkscape:document-units="in"
-     inkscape:cy="184.42655"
-     inkscape:cx="294.73776"
-     inkscape:zoom="5.6521108"
+     inkscape:cy="528"
+     inkscape:cx="408"
+     inkscape:zoom="1.7405303"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -55,11 +55,6 @@
        position="22.659622,624.00374"
        orientation="0,1"
        id="guide8233"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="3.5016417,3.5827323"
-       orientation="1,0"
-       id="guide12837"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -4551,6 +4546,628 @@
              sodipodi:role="line">Blackberry Basil Margarita</tspan></text>
       </g>
     </clipPath>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient6036"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-606.25576,-288.78288)"
+       x="984"
+       y="140.3">
+      <meshrow
+         id="meshrow6072">
+        <meshpatch
+           id="meshpatch6046">
+          <stop
+             id="stop6038"
+             style="stop-color:#fcebc8;stop-opacity:1"
+             path="c 0,106.039  -85.9613,192  -192,192" />
+          <stop
+             id="stop6040"
+             style="stop-color:#eeb14a;stop-opacity:1"
+             path="l -0.560316,-192.101" />
+          <stop
+             id="stop6042"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l 0.0025238,0.00172962" />
+          <stop
+             id="stop6044"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l 192.558,0.0990168" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6054">
+          <stop
+             id="stop6048"
+             path="c -106.039,0  -192,-85.9613  -192,-192" />
+          <stop
+             id="stop6050"
+             style="stop-color:#dfaf5b;stop-opacity:1"
+             path="l 191.402,-0.113583" />
+          <stop
+             id="stop6052"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l 0.0379291,0.0128368" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6062">
+          <stop
+             id="stop6056"
+             path="c 0,-106.039  85.9613,-192  192,-192" />
+          <stop
+             id="stop6058"
+             style="stop-color:#a45b0e;stop-opacity:1"
+             path="l -0.59565,191.881" />
+          <stop
+             id="stop6060"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l -0.00259512,0.00541676" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6070">
+          <stop
+             id="stop6064"
+             path="c 106.039,-2.13163e-014  191.999,85.9612  192,192" />
+          <stop
+             id="stop6066"
+             style="stop-color:#fcebc8;stop-opacity:1"
+             path="l -192.593,-0.0869284" />
+          <stop
+             id="stop6068"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l -0.00265,-0.0320716" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient6074"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-448.89505,-867.77995)"
+       x="984"
+       y="140.3">
+      <meshrow
+         id="meshrow6110">
+        <meshpatch
+           id="meshpatch6084">
+          <stop
+             path="c 0,106.039  -85.9613,192  -192,192"
+             style="stop-color:#fcebc8;stop-opacity:1"
+             id="stop6076" />
+          <stop
+             path="l -0.560316,-192.101"
+             style="stop-color:#eeb14a;stop-opacity:1"
+             id="stop6078" />
+          <stop
+             path="l 0.0025238,0.00172962"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6080" />
+          <stop
+             path="l 192.558,0.0990168"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6082" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6092">
+          <stop
+             path="c -106.039,0  -192,-85.9613  -192,-192"
+             id="stop6086" />
+          <stop
+             path="l 191.402,-0.113583"
+             style="stop-color:#dfaf5b;stop-opacity:1"
+             id="stop6088" />
+          <stop
+             path="l 0.0379291,0.0128368"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6090" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6100">
+          <stop
+             path="c 0,-106.039  85.9613,-192  192,-192"
+             id="stop6094" />
+          <stop
+             path="l -0.59565,191.881"
+             style="stop-color:#a45b0e;stop-opacity:1"
+             id="stop6096" />
+          <stop
+             path="l -0.00259512,0.00541676"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6098" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6108">
+          <stop
+             path="c 106.039,-2.13163e-014  191.999,85.9612  192,192"
+             id="stop6102" />
+          <stop
+             path="l -192.593,-0.0869284"
+             style="stop-color:#fcebc8;stop-opacity:1"
+             id="stop6104" />
+          <stop
+             path="l -0.00265,-0.0320716"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6106" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6112">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.1941452px;line-height:1.25;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#dfe068;fill-opacity:1;stroke:none;stroke-width:3.83141851"
+         x="196.60966"
+         y="132.01682"
+         id="text6118"><tspan
+           sodipodi:role="line"
+           id="tspan6114"
+           x="196.60966"
+           y="132.01682"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:71.51979065px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#dfe068;fill-opacity:1;stroke-width:3.83141851">Serving</tspan><tspan
+           sodipodi:role="line"
+           x="196.60966"
+           y="221.41655"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:71.51979065px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#dfe068;fill-opacity:1;stroke-width:3.83141851"
+           id="tspan6116">A Shot</tspan></text>
+    </clipPath>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient6303"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-606.25576,-288.78288)"
+       x="984"
+       y="140.3">
+      <meshrow
+         id="meshrow6339">
+        <meshpatch
+           id="meshpatch6313">
+          <stop
+             id="stop6305"
+             style="stop-color:#fcebc8;stop-opacity:1"
+             path="c 0,106.039  -85.9613,192  -192,192" />
+          <stop
+             id="stop6307"
+             style="stop-color:#eeb14a;stop-opacity:1"
+             path="l -0.560316,-192.101" />
+          <stop
+             id="stop6309"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l 0.0025238,0.00172962" />
+          <stop
+             id="stop6311"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l 192.558,0.0990168" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6321">
+          <stop
+             id="stop6315"
+             path="c -106.039,0  -192,-85.9613  -192,-192" />
+          <stop
+             id="stop6317"
+             style="stop-color:#dfaf5b;stop-opacity:1"
+             path="l 191.402,-0.113583" />
+          <stop
+             id="stop6319"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l 0.0379291,0.0128368" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6329">
+          <stop
+             id="stop6323"
+             path="c 0,-106.039  85.9613,-192  192,-192" />
+          <stop
+             id="stop6325"
+             style="stop-color:#a45b0e;stop-opacity:1"
+             path="l -0.59565,191.881" />
+          <stop
+             id="stop6327"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l -0.00259512,0.00541676" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6337">
+          <stop
+             id="stop6331"
+             path="c 106.039,-2.13163e-014  191.999,85.9612  192,192" />
+          <stop
+             id="stop6333"
+             style="stop-color:#fcebc8;stop-opacity:1"
+             path="l -192.593,-0.0869284" />
+          <stop
+             id="stop6335"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l -0.00265,-0.0320716" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient6341"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-448.89505,-867.77995)"
+       x="984"
+       y="140.3">
+      <meshrow
+         id="meshrow6377">
+        <meshpatch
+           id="meshpatch6351">
+          <stop
+             path="c 0,106.039  -85.9613,192  -192,192"
+             style="stop-color:#fcebc8;stop-opacity:1"
+             id="stop6343" />
+          <stop
+             path="l -0.560316,-192.101"
+             style="stop-color:#eeb14a;stop-opacity:1"
+             id="stop6345" />
+          <stop
+             path="l 0.0025238,0.00172962"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6347" />
+          <stop
+             path="l 192.558,0.0990168"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6349" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6359">
+          <stop
+             path="c -106.039,0  -192,-85.9613  -192,-192"
+             id="stop6353" />
+          <stop
+             path="l 191.402,-0.113583"
+             style="stop-color:#dfaf5b;stop-opacity:1"
+             id="stop6355" />
+          <stop
+             path="l 0.0379291,0.0128368"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6357" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6367">
+          <stop
+             path="c 0,-106.039  85.9613,-192  192,-192"
+             id="stop6361" />
+          <stop
+             path="l -0.59565,191.881"
+             style="stop-color:#a45b0e;stop-opacity:1"
+             id="stop6363" />
+          <stop
+             path="l -0.00259512,0.00541676"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6365" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6375">
+          <stop
+             path="c 106.039,-2.13163e-014  191.999,85.9612  192,192"
+             id="stop6369" />
+          <stop
+             path="l -192.593,-0.0869284"
+             style="stop-color:#fcebc8;stop-opacity:1"
+             id="stop6371" />
+          <stop
+             path="l -0.00265,-0.0320716"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6373" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient6379"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-606.25576,-288.78288)"
+       x="984"
+       y="140.3">
+      <meshrow
+         id="meshrow6415">
+        <meshpatch
+           id="meshpatch6389">
+          <stop
+             path="c 0,106.039  -85.9613,192  -192,192"
+             style="stop-color:#fcebc8;stop-opacity:1"
+             id="stop6381" />
+          <stop
+             path="l -0.560316,-192.101"
+             style="stop-color:#eeb14a;stop-opacity:1"
+             id="stop6383" />
+          <stop
+             path="l 0.0025238,0.00172962"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6385" />
+          <stop
+             path="l 192.558,0.0990168"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6387" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6397">
+          <stop
+             path="c -106.039,0  -192,-85.9613  -192,-192"
+             id="stop6391" />
+          <stop
+             path="l 191.402,-0.113583"
+             style="stop-color:#dfaf5b;stop-opacity:1"
+             id="stop6393" />
+          <stop
+             path="l 0.0379291,0.0128368"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6395" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6405">
+          <stop
+             path="c 0,-106.039  85.9613,-192  192,-192"
+             id="stop6399" />
+          <stop
+             path="l -0.59565,191.881"
+             style="stop-color:#a45b0e;stop-opacity:1"
+             id="stop6401" />
+          <stop
+             path="l -0.00259512,0.00541676"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6403" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6413">
+          <stop
+             path="c 106.039,-2.13163e-014  191.999,85.9612  192,192"
+             id="stop6407" />
+          <stop
+             path="l -192.593,-0.0869284"
+             style="stop-color:#fcebc8;stop-opacity:1"
+             id="stop6409" />
+          <stop
+             path="l -0.00265,-0.0320716"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6411" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient6417"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-448.89505,-867.77995)"
+       x="984"
+       y="140.3">
+      <meshrow
+         id="meshrow6453">
+        <meshpatch
+           id="meshpatch6427">
+          <stop
+             id="stop6419"
+             style="stop-color:#fcebc8;stop-opacity:1"
+             path="c 0,106.039  -85.9613,192  -192,192" />
+          <stop
+             id="stop6421"
+             style="stop-color:#eeb14a;stop-opacity:1"
+             path="l -0.560316,-192.101" />
+          <stop
+             id="stop6423"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l 0.0025238,0.00172962" />
+          <stop
+             id="stop6425"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l 192.558,0.0990168" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6435">
+          <stop
+             id="stop6429"
+             path="c -106.039,0  -192,-85.9613  -192,-192" />
+          <stop
+             id="stop6431"
+             style="stop-color:#dfaf5b;stop-opacity:1"
+             path="l 191.402,-0.113583" />
+          <stop
+             id="stop6433"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l 0.0379291,0.0128368" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6443">
+          <stop
+             id="stop6437"
+             path="c 0,-106.039  85.9613,-192  192,-192" />
+          <stop
+             id="stop6439"
+             style="stop-color:#a45b0e;stop-opacity:1"
+             path="l -0.59565,191.881" />
+          <stop
+             id="stop6441"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l -0.00259512,0.00541676" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6451">
+          <stop
+             id="stop6445"
+             path="c 106.039,-2.13163e-014  191.999,85.9612  192,192" />
+          <stop
+             id="stop6447"
+             style="stop-color:#fcebc8;stop-opacity:1"
+             path="l -192.593,-0.0869284" />
+          <stop
+             id="stop6449"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l -0.00265,-0.0320716" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient6470"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-606.25576,-288.78288)"
+       x="984"
+       y="140.3">
+      <meshrow
+         id="meshrow6506">
+        <meshpatch
+           id="meshpatch6480">
+          <stop
+             id="stop6472"
+             style="stop-color:#fcebc8;stop-opacity:1"
+             path="c 0,106.039  -85.9613,192  -192,192" />
+          <stop
+             id="stop6474"
+             style="stop-color:#eeb14a;stop-opacity:1"
+             path="l -0.560316,-192.101" />
+          <stop
+             id="stop6476"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l 0.0025238,0.00172962" />
+          <stop
+             id="stop6478"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l 192.558,0.0990168" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6488">
+          <stop
+             id="stop6482"
+             path="c -106.039,0  -192,-85.9613  -192,-192" />
+          <stop
+             id="stop6484"
+             style="stop-color:#dfaf5b;stop-opacity:1"
+             path="l 191.402,-0.113583" />
+          <stop
+             id="stop6486"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l 0.0379291,0.0128368" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6496">
+          <stop
+             id="stop6490"
+             path="c 0,-106.039  85.9613,-192  192,-192" />
+          <stop
+             id="stop6492"
+             style="stop-color:#a45b0e;stop-opacity:1"
+             path="l -0.59565,191.881" />
+          <stop
+             id="stop6494"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l -0.00259512,0.00541676" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6504">
+          <stop
+             id="stop6498"
+             path="c 106.039,-2.13163e-014  191.999,85.9612  192,192" />
+          <stop
+             id="stop6500"
+             style="stop-color:#fcebc8;stop-opacity:1"
+             path="l -192.593,-0.0869284" />
+          <stop
+             id="stop6502"
+             style="stop-color:#c89541;stop-opacity:1"
+             path="l -0.00265,-0.0320716" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient6508"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-448.89505,-867.77995)"
+       x="984"
+       y="140.3">
+      <meshrow
+         id="meshrow6544">
+        <meshpatch
+           id="meshpatch6518">
+          <stop
+             path="c 0,106.039  -85.9613,192  -192,192"
+             style="stop-color:#fcebc8;stop-opacity:1"
+             id="stop6510" />
+          <stop
+             path="l -0.560316,-192.101"
+             style="stop-color:#eeb14a;stop-opacity:1"
+             id="stop6512" />
+          <stop
+             path="l 0.0025238,0.00172962"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6514" />
+          <stop
+             path="l 192.558,0.0990168"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6516" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6526">
+          <stop
+             path="c -106.039,0  -192,-85.9613  -192,-192"
+             id="stop6520" />
+          <stop
+             path="l 191.402,-0.113583"
+             style="stop-color:#dfaf5b;stop-opacity:1"
+             id="stop6522" />
+          <stop
+             path="l 0.0379291,0.0128368"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6524" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6534">
+          <stop
+             path="c 0,-106.039  85.9613,-192  192,-192"
+             id="stop6528" />
+          <stop
+             path="l -0.59565,191.881"
+             style="stop-color:#a45b0e;stop-opacity:1"
+             id="stop6530" />
+          <stop
+             path="l -0.00259512,0.00541676"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6532" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6542">
+          <stop
+             path="c 106.039,-2.13163e-014  191.999,85.9612  192,192"
+             id="stop6536" />
+          <stop
+             path="l -192.593,-0.0869284"
+             style="stop-color:#fcebc8;stop-opacity:1"
+             id="stop6538" />
+          <stop
+             path="l -0.00265,-0.0320716"
+             style="stop-color:#c89541;stop-opacity:1"
+             id="stop6540" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6551">
+      <g
+         id="g6559"
+         transform="matrix(89.442638,0,0,89.442638,-110.1368,59926.894)">
+        <text
+           id="text6555"
+           y="-668.17487"
+           x="1.5932766"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.15277784px;line-height:1.25;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cedb69;fill-opacity:1;stroke:none;stroke-width:0.01041667"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.30555555px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.01385417px;writing-mode:lr-tb;text-anchor:start;fill:#cedb69;fill-opacity:1;stroke-width:0.01041667"
+             y="-668.17487"
+             x="1.5932766"
+             id="tspan6553"
+             sodipodi:role="line">Jalapeño Cilantro Margarita</tspan></text>
+        <rect
+           y="-668.05048"
+           x="1.3409392"
+           height="0.026895639"
+           width="4.1419287"
+           id="rect6557"
+           style="opacity:1;fill:#d0d547;fill-opacity:1;stroke:none;stroke-width:0.01408959;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+    </clipPath>
   </defs>
   <metadata
      id="metadata5">
@@ -4560,7 +5177,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5182,71 +5799,9 @@
     </g>
     <flowRoot
        xml:space="preserve"
-       id="flowRoot12729"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.01041667,0,0,0.01041667,0.16586721,-671.41024)"><flowRegion
-         id="flowRegion12731"><rect
-           id="rect12733"
-           width="386.05045"
-           height="119.07058"
-           x="70.946945"
-           y="832.01288" /></flowRegion><flowPara
-         id="flowPara12797"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666222px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"> - 1 part Blackberry Basil Sotol</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666222px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="flowPara12807" /></flowRoot>    <flowRoot
-       transform="matrix(0.01041667,0,0,0.01041667,0.04976021,-671.69406)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot12805"
-       xml:space="preserve"><flowRegion
-         id="flowRegion12801"><rect
-           y="832.01288"
-           x="70.946945"
-           height="119.07058"
-           width="386.05045"
-           id="rect12799" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666222px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="flowPara12803">In a cocktail shaker with ice add:</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.01041667,0,0,0.01041667,0.18982581,-671.19462)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot12817"
-       xml:space="preserve"><flowRegion
-         id="flowRegion12811"><rect
-           y="832.01288"
-           x="70.946945"
-           height="119.07058"
-           width="386.05045"
-           id="rect12809" /></flowRegion><flowPara
-         id="flowPara12815"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666222px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">- 1 part Blackberry Basil Margarita Mix</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot12827"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.01041667,0,0,0.01041667,0.18982581,-670.98632)"><flowRegion
-         id="flowRegion12823"><rect
-           id="rect12821"
-           width="386.05045"
-           height="119.07058"
-           x="70.946945"
-           y="832.01288" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666222px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="flowPara12825">- 1/4 to 1/2 a Sarrano pepper</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.01041667,0,0,0.01041667,0.18982581,-670.77802)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot12835"
-       xml:space="preserve"><flowRegion
-         id="flowRegion12831"><rect
-           y="832.01288"
-           x="70.946945"
-           height="119.07058"
-           width="386.05045"
-           id="rect12829" /></flowRegion><flowPara
-         id="flowPara12833"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666222px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">- 2 to 4 basil leaves</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
        id="flowRoot12857"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.01041667,0,0,0.01041667,1.5057059,-672.7593)"><flowRegion
+       transform="matrix(0.01041667,0,0,0.01041667,0.90715535,-672.69681)"><flowRegion
          id="flowRegion12853"><rect
            id="rect12851"
            width="386.05045"
@@ -5254,7 +5809,416 @@
            x="70.946945"
            y="832.01288" /></flowRegion><flowPara
          id="flowPara12855"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.99999237px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">An After Dinner Cocktail</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.99999237px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">An After Dinner Cocktail</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.15277784px;line-height:1.25;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667"
+       x="0.66531169"
+       y="-663.26501"
+       id="text5962"><tspan
+         sodipodi:role="line"
+         x="0.66531169"
+         y="-663.26501"
+         style="line-height:1.70000005;letter-spacing:-0.00270833px;stroke-width:0.01041667"
+         id="tspan5966">· Rim a rocks glass with the Serrano Lime Rimming Mixture.</tspan><tspan
+         sodipodi:role="line"
+         x="0.66531169"
+         y="-663.00531"
+         style="line-height:1.70000005;letter-spacing:-0.00270833px;stroke-width:0.01041667"
+         id="tspan5975">· In a cocktail shaker with ice add:</tspan><tspan
+         sodipodi:role="line"
+         x="0.66531169"
+         y="-662.74554"
+         style="line-height:1.70000005;letter-spacing:-0.00270833px;stroke-width:0.01041667"
+         id="tspan5977">   - 4 cl Blackberry Basil Sotol</tspan><tspan
+         sodipodi:role="line"
+         x="0.66531169"
+         y="-662.48584"
+         style="line-height:1.70000005;letter-spacing:-0.00270833px;stroke-width:0.01041667"
+         id="tspan5979">   - 4 cl Blackberry Basil Margarita Mix</tspan><tspan
+         sodipodi:role="line"
+         x="0.66531169"
+         y="-662.22614"
+         style="line-height:1.70000005;letter-spacing:-0.00270833px;stroke-width:0.01041667"
+         id="tspan5981">   - ¼ of a Serrano pepper, roughly chopped</tspan><tspan
+         sodipodi:role="line"
+         x="0.66531169"
+         y="-661.96643"
+         style="line-height:1.70000005;letter-spacing:-0.00270833px;stroke-width:0.01041667"
+         id="tspan5983">   - 2 large basil leaves</tspan><tspan
+         sodipodi:role="line"
+         x="0.66531169"
+         y="-661.70667"
+         style="line-height:1.70000005;letter-spacing:-0.00270833px;stroke-width:0.01041667"
+         id="tspan5985">· Shake vigorously and strain into the rimmed rocks glass.</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.01820153;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5987"
+       width="1.0392944"
+       height="2.3028433"
+       x="4.3513227"
+       y="-663.90656" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02304764;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5989"
+       width="1.0441564"
+       height="0.62807494"
+       x="4.3491683"
+       y="-663.90997" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.15277784px;line-height:1.25;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667"
+       x="4.4454074"
+       y="-663.07629"
+       id="text5997"><tspan
+         sodipodi:role="line"
+         id="tspan5995"
+         x="4.4454074"
+         y="-663.07629"
+         style="stroke-width:0.01041667">Rim a shot</tspan><tspan
+         sodipodi:role="line"
+         x="4.4454074"
+         y="-662.88531"
+         style="stroke-width:0.01041667"
+         id="tspan5999">glass with the</tspan><tspan
+         sodipodi:role="line"
+         x="4.4454074"
+         y="-662.69434"
+         style="stroke-width:0.01041667"
+         id="tspan6003">Rimming</tspan><tspan
+         sodipodi:role="line"
+         x="4.4454074"
+         y="-662.50336"
+         style="stroke-width:0.01041667"
+         id="tspan6005">Mixture and</tspan><tspan
+         sodipodi:role="line"
+         x="4.4454074"
+         y="-662.31238"
+         style="stroke-width:0.01041667"
+         id="tspan6007">add 2 parts</tspan><tspan
+         sodipodi:role="line"
+         x="4.4454074"
+         y="-662.12146"
+         style="stroke-width:0.01041667"
+         id="tspan6011">Margarita</tspan><tspan
+         sodipodi:role="line"
+         x="4.4454074"
+         y="-661.93048"
+         style="stroke-width:0.01041667"
+         id="tspan6013">Mix and 3</tspan><tspan
+         sodipodi:role="line"
+         x="4.4454074"
+         y="-661.7395"
+         style="stroke-width:0.01041667"
+         id="tspan6015">parts Sotol.</tspan></text>
+    <g
+       transform="matrix(0.00271875,0,0,0.00271875,4.3374615,-664.01395)"
+       id="g6031"
+       style="display:inline"
+       clip-path="url(#clipPath6112)">
+      <circle
+         transform="rotate(74.795329)"
+         cx="185.74425"
+         cy="-148.48288"
+         r="192"
+         id="circle6027"
+         style="fill:url(#meshgradient6036);fill-opacity:1;stroke:none;stroke-width:0.45537478;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="rotate(74.795329,-300.00003,-392.41687)"
+         style="fill:url(#meshgradient6074);fill-opacity:1;stroke:none;stroke-width:0.45537478;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76652)"
+         d="m 535.10495,-727.47998 a 192,192 0 0 1 -192,192 192,192 0 0 1 -192,-192 192,192 0 0 1 192,-192 192,192 0 0 1 192,192 z"
+         id="path6029"
+         clip-path="url(#clipPath11932)" />
+    </g>
+    <rect
+       y="-668.50012"
+       x="0.5"
+       height="0.5"
+       width="5"
+       id="rect6120"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.00509021;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="-668.49493"
+       x="0.50518155"
+       height="2.9896369"
+       width="4.9896369"
+       id="rect6128"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.01661458;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.01041667,0,0,0.01041667,0.88632202,-676.69694)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6181"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6177"><rect
+           y="832.01288"
+           x="70.946945"
+           height="119.07058"
+           width="386.05045"
+           id="rect6175" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.99999237px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara6179">A Before Dinner Cocktail</flowPara></flowRoot>    <text
+       id="text6197"
+       y="-667.26514"
+       x="0.66531169"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.15277784px;line-height:1.25;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667"
+       xml:space="preserve"><tspan
+         id="tspan6183"
+         style="line-height:1.70000005;letter-spacing:-0.00270833px;stroke-width:0.01041667"
+         y="-667.26514"
+         x="0.66531169"
+         sodipodi:role="line">· Rim a rocks glass with the Jalapeño Lime Rimming Mixture.</tspan><tspan
+         id="tspan6185"
+         style="line-height:1.70000005;letter-spacing:-0.00270833px;stroke-width:0.01041667"
+         y="-667.00543"
+         x="0.66531169"
+         sodipodi:role="line">· In a cocktail shaker with ice add:</tspan><tspan
+         id="tspan6187"
+         style="line-height:1.70000005;letter-spacing:-0.00270833px;stroke-width:0.01041667"
+         y="-666.74567"
+         x="0.66531169"
+         sodipodi:role="line">   - 4 cl Jalapeño Cilantro Sotol</tspan><tspan
+         id="tspan6189"
+         style="line-height:1.70000005;letter-spacing:-0.00270833px;stroke-width:0.01041667"
+         y="-666.48596"
+         x="0.66531169"
+         sodipodi:role="line">   - 3 cl Jalapeño Cilantro Margarita Mix</tspan><tspan
+         id="tspan6191"
+         style="line-height:1.70000005;letter-spacing:-0.00270833px;stroke-width:0.01041667"
+         y="-666.22626"
+         x="0.66531169"
+         sodipodi:role="line">   - ⅛ of a Jalapeño pepper, roughly chopped</tspan><tspan
+         id="tspan6193"
+         style="line-height:1.70000005;letter-spacing:-0.00270833px;stroke-width:0.01041667"
+         y="-665.96655"
+         x="0.66531169"
+         sodipodi:role="line">   - 6 cilantro leaves</tspan><tspan
+         id="tspan6195"
+         style="line-height:1.70000005;letter-spacing:-0.00270833px;stroke-width:0.01041667"
+         y="-665.70679"
+         x="0.66531169"
+         sodipodi:role="line">· Shake vigorously and strain into the rimmed rocks glass.</tspan></text>
+    <rect
+       y="-667.90668"
+       x="4.3513227"
+       height="2.3028433"
+       width="1.0392944"
+       id="rect6199"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.01820153;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="-667.9101"
+       x="4.3491683"
+       height="0.62807494"
+       width="1.0441564"
+       id="rect6201"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02304764;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text6219"
+       y="-667.07642"
+       x="4.4454074"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.15277784px;line-height:1.25;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01041667"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.01041667"
+         y="-667.07642"
+         x="4.4454074"
+         id="tspan6203"
+         sodipodi:role="line">Rim a shot</tspan><tspan
+         id="tspan6205"
+         style="stroke-width:0.01041667"
+         y="-666.88544"
+         x="4.4454074"
+         sodipodi:role="line">glass with the</tspan><tspan
+         id="tspan6207"
+         style="stroke-width:0.01041667"
+         y="-666.69446"
+         x="4.4454074"
+         sodipodi:role="line">Rimming</tspan><tspan
+         id="tspan6209"
+         style="stroke-width:0.01041667"
+         y="-666.50348"
+         x="4.4454074"
+         sodipodi:role="line">Mixture and</tspan><tspan
+         id="tspan6211"
+         style="stroke-width:0.01041667"
+         y="-666.3125"
+         x="4.4454074"
+         sodipodi:role="line">add 1 part</tspan><tspan
+         id="tspan6213"
+         style="stroke-width:0.01041667"
+         y="-666.12158"
+         x="4.4454074"
+         sodipodi:role="line">Margarita</tspan><tspan
+         id="tspan6215"
+         style="stroke-width:0.01041667"
+         y="-665.9306"
+         x="4.4454074"
+         sodipodi:role="line">Mix and 4</tspan><tspan
+         id="tspan6217"
+         style="stroke-width:0.01041667"
+         y="-665.73962"
+         x="4.4454074"
+         sodipodi:role="line">parts Sotol.</tspan></text>
+    <g
+       clip-path="url(#clipPath6112)"
+       style="display:inline"
+       id="g6225"
+       transform="matrix(0.00271875,0,0,0.00271875,4.3374615,-668.01408)">
+      <circle
+         style="fill:url(#meshgradient6379);fill-opacity:1;stroke:none;stroke-width:0.45537478;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle6221"
+         r="192"
+         cy="-148.48288"
+         cx="185.74425"
+         transform="rotate(74.795329)" />
+      <path
+         clip-path="url(#clipPath11932)"
+         id="path6223"
+         d="m 535.10495,-727.47998 a 192,192 0 0 1 -192,192 192,192 0 0 1 -192,-192 192,192 0 0 1 192,-192 192,192 0 0 1 192,192 z"
+         style="fill:url(#meshgradient6417);fill-opacity:1;stroke:none;stroke-width:0.45537478;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76652)"
+         transform="rotate(74.795329,-300.00003,-392.41687)"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0.01118035,0,0,0.01118035,1.231368,-670.00365)"
+       id="g6465"
+       style="display:inline"
+       clip-path="url(#clipPath6551)">
+      <circle
+         transform="rotate(74.795329)"
+         cx="185.74425"
+         cy="-148.48288"
+         r="192"
+         id="circle6461"
+         style="fill:url(#meshgradient6470);fill-opacity:1;stroke:none;stroke-width:0.45537478;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="rotate(74.795329,-300.00003,-392.41687)"
+         style="fill:url(#meshgradient6508);fill-opacity:1;stroke:none;stroke-width:0.45537478;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76652)"
+         d="m 535.10495,-727.47998 a 192,192 0 0 1 -192,192 192,192 0 0 1 -192,-192 192,192 0 0 1 192,-192 192,192 0 0 1 192,192 z"
+         id="path6463"
+         clip-path="url(#clipPath11932)" />
+    </g>
+    <g
+       id="g6173"
+       transform="translate(0,-4.0001322)">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0081456;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6130"
+         cx="1"
+         cy="-664"
+         r="0.5" />
+      <path
+         transform="matrix(0.00289062,0,0,0.00289062,0.44499998,-664.40555)"
+         inkscape:connector-curvature="0"
+         clip-path="url(#clipPath9133)"
+         id="path6132"
+         d="M 356.5,140.3 A 164.5,164.5 0 0 1 192,304.8 164.5,164.5 0 0 1 27.5,140.3 164.5,164.5 0 0 1 192,-24.199997 164.5,164.5 0 0 1 356.5,140.3 Z"
+         style="display:inline;fill:#352817;fill-opacity:1;stroke:none;stroke-width:0.53414643;stroke-miterlimit:4;stroke-dasharray:2.13658585, 1.06829293;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter7087)" />
+      <g
+         id="g6149"
+         transform="matrix(0.02083333,0,0,0.02083333,0.5,-657.5)">
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.09666204;stroke-miterlimit:4;stroke-dasharray:12.19332462, 6.09666229;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 24,-335 a 23,23 0 0 0 -23,23 23,23 0 0 0 23,23 23,23 0 0 0 23,-23 23,23 0 0 0 -23,-23 z m 0,1 a 22,22 0 0 1 22,22 22,22 0 0 1 -22,22 22,22 0 0 1 -22,-22 22,22 0 0 1 22,-22 z"
+           id="path6134" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.64633274;stroke-miterlimit:4;stroke-dasharray:15.292665, 7.64633248;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 24,-333 a 21,21 0 0 0 -21,21 21,21 0 0 0 21,21 21,21 0 0 0 21,-21 21,21 0 0 0 -21,-21 z m 0,1 a 20,20 0 0 1 20,20 20,20 0 0 1 -20,20 20,20 0 0 1 -20,-20 20,20 0 0 1 20,-20 z"
+           id="path6136" />
+        <g
+           transform="matrix(0.1764,0,0,0.1764,-9.8174003,-346.6912)"
+           id="g6147"
+           style="opacity:1">
+          <g
+             aria-label="V"
+             style="font-style:normal;font-weight:normal;font-size:2.9090395px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.51779526;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="g6140"
+             transform="matrix(5.6,0,0,5.6,101.35737,-7691.7768)">
+            <path
+               d="m 6.1479441,1397.9128 6.9889869,18.4679 6.151406,-16.4632 3.597475,-2.0047 -9.748881,25.3745 -8.9387631,-23.3149 H 3.3193955 v 1.0436 l -2.0596228,-3.1032 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.12071609px;font-family:DragonForcE;-inkscape-font-specification:DragonForcE;letter-spacing:-6.45806408px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.51779526;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path6138"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             aria-label="V"
+             style="font-style:normal;font-weight:normal;font-size:2.9090395px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.51779526;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="g6145"
+             transform="matrix(5.6,0,0,5.6,101.35737,-7691.7768)">
+            <path
+               d="m 14.002359,1397.9128 6.988987,18.4679 6.151406,-16.4632 3.597475,-2.0047 -9.748881,25.3745 -8.938763,-23.3149 h -0.878772 v 1.0436 l -2.0596231,-3.1032 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.12071609px;font-family:DragonForcE;-inkscape-font-specification:DragonForcE;letter-spacing:-6.45806408px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.51779526;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path6142"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g6165"
+         style="filter:url(#filter9155)"
+         clip-path="url(#clipPath9159)"
+         transform="matrix(0.02083333,0,0,0.02083333,0.5,-657.5)">
+        <path
+           id="path6151"
+           d="m 24,-335 a 23,23 0 0 0 -23,23 23,23 0 0 0 23,23 23,23 0 0 0 23,-23 23,23 0 0 0 -23,-23 z m 0,1 a 22,22 0 0 1 22,22 22,22 0 0 1 -22,22 22,22 0 0 1 -22,-22 22,22 0 0 1 22,-22 z"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.09666204;stroke-miterlimit:4;stroke-dasharray:12.19332462, 6.09666229;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path6153"
+           d="m 24,-333 a 21,21 0 0 0 -21,21 21,21 0 0 0 21,21 21,21 0 0 0 21,-21 21,21 0 0 0 -21,-21 z m 0,1 a 20,20 0 0 1 20,20 20,20 0 0 1 -20,20 20,20 0 0 1 -20,-20 20,20 0 0 1 20,-20 z"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.64633274;stroke-miterlimit:4;stroke-dasharray:15.292665, 7.64633248;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <g
+           style="opacity:1"
+           id="g6163"
+           transform="matrix(0.1764,0,0,0.1764,-9.8174003,-346.6912)">
+          <g
+             transform="matrix(5.6,0,0,5.6,101.35737,-7691.7768)"
+             id="g6157"
+             style="font-style:normal;font-weight:normal;font-size:2.9090395px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.51779526;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             aria-label="V">
+            <path
+               inkscape:connector-curvature="0"
+               id="path6155"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.12071609px;font-family:DragonForcE;-inkscape-font-specification:DragonForcE;letter-spacing:-6.45806408px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.51779526;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 6.1479441,1397.9128 6.9889869,18.4679 6.151406,-16.4632 3.597475,-2.0047 -9.748881,25.3745 -8.9387631,-23.3149 H 3.3193955 v 1.0436 l -2.0596228,-3.1032 z" />
+          </g>
+          <g
+             transform="matrix(5.6,0,0,5.6,101.35737,-7691.7768)"
+             id="g6161"
+             style="font-style:normal;font-weight:normal;font-size:2.9090395px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.51779526;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             aria-label="V">
+            <path
+               inkscape:connector-curvature="0"
+               id="path6159"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.12071609px;font-family:DragonForcE;-inkscape-font-specification:DragonForcE;letter-spacing:-6.45806408px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.51779526;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 14.002359,1397.9128 6.988987,18.4679 6.151406,-16.4632 3.597475,-2.0047 -9.748881,25.3745 -8.938763,-23.3149 h -0.878772 v 1.0436 l -2.0596231,-3.1032 z" />
+          </g>
+        </g>
+      </g>
+      <g
+         style="display:inline"
+         id="g6171"
+         transform="matrix(0.00260417,0,0,0.00260417,0.5,-664.36536)"
+         clip-path="url(#clipPath9115)">
+        <circle
+           style="fill:url(#meshgradient6303);fill-opacity:1;stroke:none;stroke-width:0.45537478;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle6167"
+           r="192"
+           cy="-148.48288"
+           cx="185.74425"
+           transform="rotate(74.795329)" />
+        <path
+           clip-path="url(#clipPath11932)"
+           id="path6169"
+           d="m 535.10495,-727.47998 a 192,192 0 0 1 -192,192 192,192 0 0 1 -192,-192 192,192 0 0 1 192,-192 192,192 0 0 1 192,192 z"
+           style="fill:url(#meshgradient6341);fill-opacity:1;stroke:none;stroke-width:0.45537478;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter76652)"
+           transform="rotate(74.795329,-300.00003,-392.41687)"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
